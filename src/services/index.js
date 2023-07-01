@@ -620,7 +620,7 @@ export const buildTianApi = async (apiType, params = null) => {
   const typeMap = {
     zaoan: 'morningGreeting',
     wanan: 'eveningGreeting',
-    networkhot: 'networkHot',
+    networkhot: 'weibohot',
     tianqi: 'weather',
   }
   if (!(config.TIAN_API && config.TIAN_API[typeMap[apiType]])) {
@@ -683,7 +683,7 @@ export const getTianApiWeather = async (user) => buildTianApi('tianqi', { city: 
  */
 export const getTianApiNetworkHot = async (type = 'default') => {
   let result = ''
-  const res = await buildTianApi('networkhot')
+  const res = await buildTianApi('weibohot')
   res.forEach((item, index) => {
     if (item.digest) {
       result += `${index + 1}、 ${type === 'default' ? item.digest : item.title} ${getLB()}`
