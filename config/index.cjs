@@ -108,7 +108,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝宝',
+      name: '8t7hB26_D2nbBMA347wR6Yxi-zogbTmDh4DZaecmrZI',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
       id: '8t7hB26_D2nbBMA347wR6Yxi-zogbTmDh4DZaecmrZI',
