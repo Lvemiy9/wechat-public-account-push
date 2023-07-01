@@ -115,11 +115,11 @@ const USER_CONFIG = {
       id: 'oQMeP6XpDQfBHFAOGtQOxygXMg0w',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: 'eBGj8AtNZeJTd9YDh3J5i8HXeaa0s5-poYWI8h2fdWU',
+      useTemplateId: 'kkIS5ELSLwawULFL2ord6re3p1a4dzLJF6tYHnx9ug8',
       // 所在省份或城市，也可以不填
-      province: '辽宁',
+      province: '宁夏',
       // 所在城市或县区
-      city: '抚顺市',
+      city: '银川市',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '05-03',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
