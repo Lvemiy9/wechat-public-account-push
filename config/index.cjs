@@ -95,7 +95,7 @@ const USER_CONFIG = {
       id: 'oQMeP6XpDQfBHFAOGtQOxygXMg0w',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: 'oQMeP6XpDQfBHFAOGtQOxygXMg0w',
+      useTemplateId: '	kkIS5ELSLwawULFL2ord6re3p1a4dzLJF6tYHnx9ug8',
       // 所在省份或城市，也可以不填
       province: '辽宁',
       // 所在城市或县区
@@ -247,7 +247,7 @@ const USER_CONFIG = {
 
   // 使用微信测试号：【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   // 使用其他通道时，请填写 config/template-config.cjs 中【推送完成提醒】模板的id
-  CALLBACK_TEMPLATE_ID: '	Q-RPxI6wErJ_LPJuIN6WT9TnACyRKJgStsibNn250Ck',
+  CALLBACK_TEMPLATE_ID: 'Q-RPxI6wErJ_LPJuIN6WT9TnACyRKJgStsibNn250Ck',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
