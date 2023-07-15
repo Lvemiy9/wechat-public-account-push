@@ -117,9 +117,9 @@ const USER_CONFIG = {
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: 'W9bQYtm2EAOP5N87MIIxyWxN1VvXI5ep46WnvszfNow',
       // 所在省份或城市，也可以不填
-      province: '陕西',
+      province: '四川',
       // 所在城市或县区
-      city: '西安市',
+      city: '成都市',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '05-03',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -229,9 +229,9 @@ const USER_CONFIG = {
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: 'fdiBSvlAcoQupXU_j-EW-2yYg2G2dXKQ0O4-bNkyQMo',
       // 所在省份或城市，也可以不填
-      province: '陕西',
+      province: '四川',
       // 所在城市或县区
-      city: '西安市',
+      city: '成都市',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '05-03',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
